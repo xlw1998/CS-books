@@ -3,6 +3,8 @@
 
 ------
 
+
+
 本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，所有权归仓库作者**阿秀**（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3&scene=18#wechat_redirect)】）所有，如有疑问提请**issue**或者联系本人forthespada@foxmail.com，感谢~
 
 在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。
@@ -11,13 +13,17 @@
 
 <font color="#a52a2a">衷心希望我以前踩过的坑，你们不要再踩，我走过的路，你们可以照着走下来。因为从双非二本爬上来，太**TMD**难了</font>
 
-<p style="text-align:center;font-size:20px">
+
+<p style="text-align:center;font-size:18px">
   <a href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3&scene=18#wechat_redirect">
 公众号：拓跋阿秀</a>        
   <a href="https://blog.csdn.net/songhao19" rel="nofollow">CSDN：拓跋阿秀</a>         
   <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
      <a href="https://space.bilibili.com/17066171" rel="nofollow">B站：拓跋阿秀</a> 
 </p>
+
+
+​                                                             
 
 <div align=right>
 <figure class="half">
