@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4/一共两种联系方式.png" alt="欢迎关注" style="right;zoom: 45%;" />
         </figure></div>
 
-[TOC]
+
 
 ------
 
