@@ -75,8 +75,7 @@
   
 - 《C++ Primer(第五版)带书签 高清完整版》 [百度云链接](https://pan.baidu.com/s/1ADj-FnyloWB4xeobjVimeA ) 提取码：ksax 
   
-- 《C++ Primer 习题集》 百度云链接：https://pan.baidu.com/s/1S_iGX7aWf_xHROheDr0LBw 
-  提取码：yjqc 
+- 《C++ Primer 习题集》 [百度云链接](https://pan.baidu.com/s/1S_iGX7aWf_xHROheDr0LBw ) 提取码：yjqc 
   
 - 《C++ Templates》 百度云链接：https://pan.baidu.com/s/1P1aHoTzEQtMaRiOSLp9EAQ 
   提取码：d5at 
