@@ -1,4 +1,6 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
+
+
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -11,32 +13,14 @@
 
 **告诉他们，你是可以的！**
 
-<font color="#a52a2a">衷心希望我以前踩过的坑，你们不要再踩，我走过的路，你们可以照着走下来。因为从双非二本爬上来，太**TMD**难了</font>
-
 <p align="center"  font-size="18px">
   <a href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd">
 公众号：拓跋阿秀</a>        
   <a href="https://blog.csdn.net/songhao19" rel="nofollow">CSDN：拓跋阿秀</a>         
   <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
-</p>
-
-
-​                                                             
-
-<div align=right>
-<figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4/一共两种联系方式.png" alt="欢迎关注" style="right;zoom: 45%;" />
-        </figure></div>
-
-
-
-------
-
-
+</p>                                                 
 
 #### [个人公众号、知乎等平台文章和资源合集](https://github.com/forthespada/CSLearning)（点开他，你需要的都在里面）
-
--------
 
 
 
