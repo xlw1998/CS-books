@@ -1,6 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -25,6 +23,48 @@
 
 
 #### 计算机经典书籍分享
+
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。
+>
+>如果没有您要用的书，还请不要口吐芬芳、问候家人！
+
+- [00 - C语言](#00 - C语言)
+- [01 - C++](#01 - C++)
+- [02 - Java](#02 - Java)
+  - [2.1 - Java基础到进阶](#2.1 - Java基础到进阶)
+  - [2.2 - Java 大数据](#2.2 - Java 大数据)
+  - [2.3 - Java工具  ](# 2.3 - Java工具)
+- [03 - Python  ](#03 - Python )  
+  - [3.1 Python书籍](#3.1 Python书籍)
+  - [3.2 Python爬虫](#3.2 Python爬虫  )
+  - [3.3 Python数据分析](#3.3 Python数据分析)
+  - [3.4 Python数据可视化](#3.4 Python数据可视化)
+  - [3.5 Python数据挖掘](#3.5 Python数据挖掘)
+- [04 - Go语言](#04 - Go语言)
+- [05 - 数据结构与算法](#05 - 数据结构与算法)
+- [06 - 操作系统](#06 - 操作系统)
+- [07 - Linux](#07 - Linux)
+- [08 - 后端架构](#08 - 后端架构)
+- [09 - 计算机系统知识](#09 - 计算机系统知识)
+- [10 - 计算机网络](#10 - 计算机网络)
+- [11 - 数据库](#11 - 数据库)
+- [12 - 前端&全栈](#12 - 前端&全栈)
+- [13 - 安卓IOS逆向](#13 - 安卓IOS逆向)
+- [14 - 机器学习&深度学习&人工智能](#14 - 机器学习&深度学习&人工智能)
+  - [14.1 机器学习](#14.1 机器学习)
+  - [14.2 深度学习](#14.2 深度学习)
+  - [14.3 OpenCv](#14.3 OpenCv)
+  - [14.4 计算机视觉(CV)](#14.4 计算机视觉(CV))
+  - [14.5 自然语言处理(NLP)](#](#14.4 计算机视觉(CV))
+- [15 - 设计模式](#15 - 设计模式)
+- [16 - 汇编语言](#16 - 汇编语言)
+- [17 - Git](#17 - Git)
+- [18 - 数学相关](#18 - 数学相关)
+- [19 - 程序员个人能力提升](#19 - 程序员个人能力提升)
+- [20 - 其余资料](#20 - 其余资料)
+- [21 - 社招校招各种面经汇总](#21 - 社招校招各种面经汇总)
+
+
 
 #### 00 - C语言
 
@@ -61,71 +101,51 @@
   
 - 《C++ Primer 习题集》 [百度云链接](https://pan.baidu.com/s/1S_iGX7aWf_xHROheDr0LBw ) 提取码：yjqc 
   
-- 《C++ Templates》 百度云链接：https://pan.baidu.com/s/1P1aHoTzEQtMaRiOSLp9EAQ 
-  提取码：d5at 
+- 《C++ Templates》 [百度云链接](https://pan.baidu.com/s/1P1aHoTzEQtMaRiOSLp9EAQ ) 提取码：d5at 
   
-- 《C++ Primer 5th 英文版》 百度云链接：https://pan.baidu.com/s/1j3Xu_fxEYpIUWHN88HGjGg 
-  提取码：zt2t 
+- 《C++ Primer 5th 英文版》 [百度云链接](https://pan.baidu.com/s/1j3Xu_fxEYpIUWHN88HGjGg ) 提取码：zt2t 
   
-- 《C++编程调试秘笈》 百度云链接：https://pan.baidu.com/s/14KoQ6rdGRI1uSO9xpFWqmg 
-  提取码：9nc3 
+- 《C++编程调试秘笈》 [百度云链接](https://pan.baidu.com/s/14KoQ6rdGRI1uSO9xpFWqmg ) 提取码：9nc3 
   
-- 《C++ 编程规范-101条规则准则与最佳实践》 百度云链接：https://pan.baidu.com/s/15yklDyd61mP9lzfWxTNhCg 
-  提取码：evgk 
+- 《C++ 编程规范-101条规则准则与最佳实践》 [百度云链接](https://pan.baidu.com/s/15yklDyd61mP9lzfWxTNhCg ) 提取码：evgk 
   
-- 《C++编程思想（两卷合订本）》 百度云链接：https://pan.baidu.com/s/1vf0Lx5cNj9cGlvI1XVS8Kg 
-  提取码：8sba 
+- 《C++编程思想（两卷合订本）》 [百度云链接](https://pan.baidu.com/s/1vf0Lx5cNj9cGlvI1XVS8Kg ) 提取码：8sba 
   
-- 《C++并发编程实战》 百度云链接：https://pan.baidu.com/s/1xvTgDicB7LqFrwMMJQEPZQ 
-  提取码：a6tw 
+- 《C++并发编程实战》 [百度云链接](https://pan.baidu.com/s/1xvTgDicB7LqFrwMMJQEPZQ ) 提取码：a6tw 
   
-- 《C++沉思录中文第二版》 百度云链接：https://pan.baidu.com/s/1YDYhVnwCW_23qXgMRu-t_Q 
-  提取码：a1lk 
+- 《C++沉思录中文第二版》 [百度云链接](https://pan.baidu.com/s/1YDYhVnwCW_23qXgMRu-t_Q ) 提取码：a1lk 
   
-- 《C++程序设计语言》 百度云链接：https://pan.baidu.com/s/1Jp2FkuoJ0SCpwRTr6HSaEA 
-  提取码：ynhi 
+- 《C++程序设计语言》 [百度云链接](https://pan.baidu.com/s/1Jp2FkuoJ0SCpwRTr6HSaEA ) 提取码：ynhi 
   
-- 《C++ 大学教程》 百度云链接：https://pan.baidu.com/s/1viWM-CXCUoXrVtye0Xu63Q 
-  提取码：pczs 
+- 《C++ 大学教程》 [百度云链接](https://pan.baidu.com/s/1viWM-CXCUoXrVtye0Xu63Q ) 提取码：pczs 
   
-- 《C++对象模型》 百度云链接：https://pan.baidu.com/s/1DMhs3yMmqH9jK0iH3FC-Fw 
-  提取码：gaa7 
+- 《C++对象模型》 [百度云链接](https://pan.baidu.com/s/1DMhs3yMmqH9jK0iH3FC-Fw ) 提取码：gaa7 
   
-- 《C++工程实践经验课》 百度云链接：https://pan.baidu.com/s/10J3j5EHCQa4YSoOEMk9T_A 
-  提取码：bzxi 
+- 《C++工程实践经验课》 [百度云链接](https://pan.baidu.com/s/10J3j5EHCQa4YSoOEMk9T_A ) 提取码：bzxi 
   
-- 《C++设计新思维-泛型编程与设计之应用》 百度云链接：https://pan.baidu.com/s/1ARk_xhfYEtb82f8bysrBog 
-  提取码：5w6t 
+- 《C++设计新思维-泛型编程与设计之应用》 [百度云链接](https://pan.baidu.com/s/1ARk_xhfYEtb82f8bysrBog ) 提取码：5w6t 
   
-- 《Effective C++ 第三版 高清PDF》 百度云链接：https://pan.baidu.com/s/1DgblW6ia5MY4YUd4w8hG4A 
-  提取码：drvd 
+- 《Effective C++ 第三版 高清PDF》 [百度云链接](https://pan.baidu.com/s/1DgblW6ia5MY4YUd4w8hG4A ) 提取码：drvd 
   
-- 《Effective STL中文版》 百度云链接：https://pan.baidu.com/s/1Di-1-MMHTAMe5_1oksJCpA 
-  提取码：ifhx 
+- 《Effective STL中文版》 [百度云链接](https://pan.baidu.com/s/1Di-1-MMHTAMe5_1oksJCpA ) 提取码：ifhx 
   
-- 《Modern C++ Design》 百度云链接：https://pan.baidu.com/s/1i2HxMhsrUGL9A4kENjfiMA 
-  提取码：7rcb 
+- 《Modern C++ Design》 [百度云链接](https://pan.baidu.com/s/1i2HxMhsrUGL9A4kENjfiMA ) 提取码：7rcb 
   
-- 《STL源码剖析 + 源码》 百度云链接：https://pan.baidu.com/s/10THUVaHbI1Bxl2jC8yTihQ 
-  提取码：5j2e 
+- 《STL源码剖析 + 源码》 [百度云链接](https://pan.baidu.com/s/10THUVaHbI1Bxl2jC8yTihQ ) 提取码：5j2e 
   
-- 《C++实践工程学-陈硕》 百度云链接：https://pan.baidu.com/s/1-xFH5CtM5kbUylSgdc_AIw 
-  提取码：3dwb 
+- 《C++实践工程学-陈硕》 [百度云链接](https://pan.baidu.com/s/1-xFH5CtM5kbUylSgdc_AIw ) 提取码：3dwb 
   
-- 《跟我一起写makefile》 百度云链接：https://pan.baidu.com/s/1Rhcd4xnP0e7uqcnmLCKy_w 
-  提取码：ei8h 
+- 《跟我一起写makefile》 [百度云链接](https://pan.baidu.com/s/1Rhcd4xnP0e7uqcnmLCKy_w ) 提取码：ei8h 
   
-- 《侯捷STL课件》 百度云链接：https://pan.baidu.com/s/1SHbg4JsZRQVQdGLrPxIG9A 
-  提取码：3sta 
+- 《侯捷STL课件》 [百度云链接](https://pan.baidu.com/s/1SHbg4JsZRQVQdGLrPxIG9A ) 提取码：3sta 
   
-- 《深度探索C++对象模型》 百度云链接：https://pan.baidu.com/s/1vLE-BjhYXRUWrZi9O-YPTQ 
+- 《深度探索C++对象模型》 [百度云链接](https://pan.baidu.com/s/1vLE-BjhYXRUWrZi9O-YPTQ )
   提取码：b706 
   
-- 《深入理解C++11》 百度云链接：https://pan.baidu.com/s/1qcnizj9f3fwhaQikx7lMDg 
+- 《深入理解C++11》 [百度云链接](https://pan.baidu.com/s/1qcnizj9f3fwhaQikx7lMDg )
   提取码：n7rz 
   
-- 《提高C++性能的编程技术.左飞》 百度云链接：https://pan.baidu.com/s/1EhRbebB5VqVFcvv3QYiUhg 
-  提取码：d2wk 
+- 《提高C++性能的编程技术.左飞》 [百度云链接](https://pan.baidu.com/s/1EhRbebB5VqVFcvv3QYiUhg ) s提取码：d2wk 
   
 
 #### 02 - Java
