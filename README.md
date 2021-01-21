@@ -1,6 +1,5 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -66,7 +65,7 @@
 - [19 - 程序员个人能力提升](#19---程序员个人能力提升)
 - [20 - 其余资料](#20---其余资料)
 - [21 - 社招校招各种面经汇总](#21---社招校招各种面经汇总)
-- [Donate](#Donate)
+- [赞赏名单](#Donate)
 
 
 
@@ -680,9 +679,15 @@
 #### 21 - 社招校招各种面经汇总
 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/17_8t52Z2UtRuflNy4ybzBw)   提取码：luao
+
 - 《程序员面试宝典》 [百度云链接](https://pan.baidu.com/s/1pikO4SHPCMFlvd-xF_B_2A )  提取码：gm2t
-- 《机器学习 算法工程师带你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
+
+- 《机器学习 算法工程师带
+
+  你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
+
 - 《机器学习常见面试题》 [百度云链接](https://pan.baidu.com/s/1QzdmIUt8B_7GXR1WFN4aqw )  提取码：i9yw
+
 - 《招聘笔记》 [百度云链接](https://pan.baidu.com/s/1ZG3pUJP9s2LTouZIgabh4A )  提取码：q48f
 
 
@@ -694,7 +699,16 @@
 <p style="text-align:right;color:#D4D4D4;font-size:0.95em;font-weight: normal;"><span style="color:#848484"> 如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~ </span></p>
 <div align=right>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4/20201218/支付宝赞赏.jpg" alt="谢谢老铁" style="right;zoom: 23%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4/20201218/微信赞赏.jpg" alt="谢谢老铁" style="right;zoom: 22%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/支付宝赞赏2.png" alt="谢谢老铁" style="right;zoom: 23%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/微信赞赏2.png" alt="谢谢老铁" style="right;zoom: 22%;" />
                                                                                                                          </figure></div>
 
+
+
+| 姓名(昵称) | 寄语                     | 打赏金额 | 打赏时间   | 打赏平台                                              |
+| ---------- | ------------------------ | -------- | ---------- | ----------------------------------------------------- |
+| **远       | 感谢分享                 | 1.0元    | 2021-01-20 | [github仓库](https://github.com/forthespada/CS-Books) |
+| **杰       | 大佬有一起打包的链接不？ | 6.6元    | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
+| **丽       | 谢谢大佬辛苦整理         | 9.9元    | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
+
+ 
