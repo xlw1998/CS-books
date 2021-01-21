@@ -697,10 +697,9 @@
 
 <div align=right>
     <p>如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-    <p> 支付宝赞赏                 微信赞赏</p>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/支付宝赞赏2.png" alt="谢谢老铁" style="right;zoom: 23%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/微信赞赏2.png" alt="谢谢老铁" style="right;zoom: 22%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.3/202012/支付宝赞赏3.png" alt="谢谢老铁" style="right;zoom: 23%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.3/202012/微信赞赏3.png" alt="谢谢老铁" style="right;zoom: 22%;" />
                                                                                                                          </figure></div>
 
 
