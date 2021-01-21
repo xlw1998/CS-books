@@ -681,9 +681,7 @@
 
 - 《程序员面试宝典》 [百度云链接](https://pan.baidu.com/s/1pikO4SHPCMFlvd-xF_B_2A )  提取码：gm2t
 
-- 《机器学习 算法工程师带
-
-  你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
+- 《机器学习 算法工程师带你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
 
 - 《机器学习常见面试题》 [百度云链接](https://pan.baidu.com/s/1QzdmIUt8B_7GXR1WFN4aqw )  提取码：i9yw
 
