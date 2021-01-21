@@ -1,5 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -696,8 +695,9 @@
 
 #### Donate
 
-<p style="text-align:right;color:#D4D4D4;font-size:0.95em;font-weight: normal;"><span style="color:#848484"> 如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~ </span></p>
 <div align=right>
+    <p>如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
+    <p> 支付宝赞赏                 微信赞赏</p>
 <figure class="half">
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/支付宝赞赏2.png" alt="谢谢老铁" style="right;zoom: 23%;" />
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.2/202012/微信赞赏2.png" alt="谢谢老铁" style="right;zoom: 22%;" />
