@@ -24,7 +24,7 @@
   <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
 </p>                                                 
 
-#### [个人公众号、知乎等平台文章和资源合集](https://github.com/forthespada/CSLearning)（点开他，你需要的都在里面）
+#### [阿秀个人公众号、知乎等平台原创技术文章和资源合集](https://github.com/forthespada/CSLearning)（点开它，相信我你不会失望）
 
 
 
