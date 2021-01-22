@@ -106,6 +106,8 @@
 - 《深度探索C++对象模型》 [百度云链接](https://pan.baidu.com/s/1vLE-BjhYXRUWrZi9O-YPTQ ) 提取码：b706 
 - 《深入理解C++11》 [百度云链接](https://pan.baidu.com/s/1qcnizj9f3fwhaQikx7lMDg ) 提取码：n7rz 
 - 《提高C++性能的编程技术.左飞》 [百度云链接](https://pan.baidu.com/s/1EhRbebB5VqVFcvv3QYiUhg )  提取码：d2wk 
+- 《Effective C++ 第三版 高清PDF》 [百度云链接](https://pan.baidu.com/s/1DgblW6ia5MY4YUd4w8hG4A ) 提取码：drvd 
+- 《Effective STL中文版》 [百度云链接](https://pan.baidu.com/s/1Di-1-MMHTAMe5_1oksJCpA ) 提取码：ifhx 
 - 《C++ 编程规范-101条规则准则与最佳实践》 [百度云链接](https://pan.baidu.com/s/15yklDyd61mP9lzfWxTNhCg ) 提取码：evgk 
 - 《C++编程思想（两卷合订本）》 [百度云链接](https://pan.baidu.com/s/1vf0Lx5cNj9cGlvI1XVS8Kg ) 提取码：8sba 
 - 《C++并发编程实战》 [百度云链接](https://pan.baidu.com/s/1xvTgDicB7LqFrwMMJQEPZQ ) 提取码：a6tw 
@@ -115,8 +117,6 @@
 - 《C++对象模型》 [百度云链接](https://pan.baidu.com/s/1DMhs3yMmqH9jK0iH3FC-Fw ) 提取码：gaa7 
 - 《C++工程实践经验课》 [百度云链接](https://pan.baidu.com/s/10J3j5EHCQa4YSoOEMk9T_A ) 提取码：bzxi 
 - 《C++设计新思维-泛型编程与设计之应用》 [百度云链接](https://pan.baidu.com/s/1ARk_xhfYEtb82f8bysrBog ) 提取码：5w6t 
-- 《Effective C++ 第三版 高清PDF》 [百度云链接](https://pan.baidu.com/s/1DgblW6ia5MY4YUd4w8hG4A ) 提取码：drvd 
-- 《Effective STL中文版》 [百度云链接](https://pan.baidu.com/s/1Di-1-MMHTAMe5_1oksJCpA ) 提取码：ifhx 
 - 《Modern C++ Design》 [百度云链接](https://pan.baidu.com/s/1i2HxMhsrUGL9A4kENjfiMA ) 提取码：7rcb 
 - 《C++实践工程学-陈硕》 [百度云链接](https://pan.baidu.com/s/1-xFH5CtM5kbUylSgdc_AIw ) 提取码：3dwb 
 - 《跟我一起写makefile》 [百度云链接](https://pan.baidu.com/s/1Rhcd4xnP0e7uqcnmLCKy_w ) 提取码：ei8h 
@@ -125,6 +125,11 @@
 
 ##### 2.1 - Java基础到进阶
 
+- 《深入分析JavaWeb技术内幕》 [百度云链接](https://pan.baidu.com/s/1ALUZ-U0oqxxq-_5uGRZZhQ ) 提取码：g1qz 
+- 《深入剖析Tomcat》 [百度云链接](https://pan.baidu.com/s/1l4amHIQzRdppXLr08BX9Zg )  提取码：o06x 
+- 《Effective Java 2nd Edition 英文版》 [百度云链接](https://pan.baidu.com/s/1uoU2FicD7xRHRPcKL0lOZw )  提取码：czeq 
+- 《Effective Java 中文第二版》 [百度云链接](https://pan.baidu.com/s/1u3G6IRSiEQPK-i766kx7Bg ) 提取码：5p9e 
+- 《Java性能优化权威指南》 [百度云链接](https://pan.baidu.com/s/18wbGLR2FKYjEtvwSLuO53g ) 提取码：9g85 
 - 《Head First Java第二版涵盖java5.0》 [百度云链接](https://pan.baidu.com/s/1vKNf1gqquCh0x8gcsVgWnA ) 提取码：qfz2 
 - 《Java 8 实战》 [百度云链接](https://pan.baidu.com/s/1kxgntpEDq4kAzygasmJndQ ) 提取码：3ej1 
 - 《Java编辑思想（第四版）》 [百度云链接](https://pan.baidu.com/s/1exH0byT5YogMOmo7J1dDSQ ) 提取码：ogz5 
@@ -142,16 +147,15 @@
 - 《Spring 5 Recipes, 4th Edition》 [百度云链接](https://pan.baidu.com/s/1xqPeJinO2Lpq9a4SmG-0bQ ) 提取码：o3uk 
 - 《Spring in action 中文版（第4版）》 [百度云链接](https://pan.baidu.com/s/1ZUm2XxWLjvZcyUqJfMGwAw ) 提取码：daya 
 - 《轻量级JavaEE企业应用实战》 [百度云链接](https://pan.baidu.com/s/1ZHicisOFzP9CoP-3tD1QKQ )   提取码：1rn2 
-- 《深入分析JavaWeb技术内幕》 [百度云链接](https://pan.baidu.com/s/1ALUZ-U0oqxxq-_5uGRZZhQ ) 提取码：g1qz 
-- 《深入剖析Tomcat》 [百度云链接](https://pan.baidu.com/s/1l4amHIQzRdppXLr08BX9Zg )  提取码：o06x 
-- 《Effective Java 2nd Edition 英文版》 [百度云链接](https://pan.baidu.com/s/1uoU2FicD7xRHRPcKL0lOZw )  提取码：czeq 
-- 《Effective Java 中文第二版》 [百度云链接](https://pan.baidu.com/s/1u3G6IRSiEQPK-i766kx7Bg ) 提取码：5p9e 
-- 《Java性能优化权威指南》 [百度云链接](https://pan.baidu.com/s/18wbGLR2FKYjEtvwSLuO53g ) 提取码：9g85 
 - 《ThinkInJava（JAVA编程思想）》 [百度云链接](https://pan.baidu.com/s/1l-1rTjPakUxUZKWfE6kZeA )  提取码：e5rp 
 
 
 ##### 2.2 - Java 大数据
 
+- 《大数据架构师指南》 [百度云链接](https://pan.baidu.com/s/1NtepEEqg6QlXW0mpgwJY4Q )  提取码：vi00 
+- 《大数据之路：阿里巴巴大数据实践》 [百度云链接](https://pan.baidu.com/s/1L8-ytWwG458IQ0pcN89gkg )   提取码：xbco 
+- 《深入理解Spark：核心思想与源码分析》 [百度云链接](https://pan.baidu.com/s/1_wOyrysgbmXdFOrMZikm2Q ) 提取码：rkov 
+- 《图解Spark  -  核心技术与案例实战》 [百度云链接](https://pan.baidu.com/s/14qC88dEgX9zMwqRTvdSecA )  提取码：kfaj 
 - 《Apache+Kylin权威指南》 [百度云链接](https://pan.baidu.com/s/1Y56PGhUkfKEDwoRRxV2nkQ )  提取码：y31o 
 - 《Hadoop The Definitive Guide》 [百度云链接](https://pan.baidu.com/s/1BX0N_y4nerRHdQmcn7zSVg )  提取码：ws9o 
 - 《Kafka & Mafka技术分享及讨论》 [百度云链接](https://pan.baidu.com/s/1vH-K8nqiLcHvOfJ2upAHiw )  提取码：4u7i 
@@ -160,10 +164,6 @@
 - 《Spark机器学习》 [百度云链接](https://pan.baidu.com/s/1-EBePGITd-xMR_u57b_roA )  提取码：3li7 
 - 《Spark快速大数据分析》 [百度云链接](https://pan.baidu.com/s/1j1o_E6wEu7AWK-rS3PVJHQ )  提取码：jlqc 
 - 《Spark最佳实践》 [百度云链接](https://pan.baidu.com/s/1DswMXw66a6dqRcPfsDgB5w )  提取码：ziy5 
-- 《大数据架构师指南》 [百度云链接](https://pan.baidu.com/s/1NtepEEqg6QlXW0mpgwJY4Q )  提取码：vi00 
-- 《大数据之路：阿里巴巴大数据实践》 [百度云链接](https://pan.baidu.com/s/1L8-ytWwG458IQ0pcN89gkg )   提取码：xbco 
-- 《深入理解Spark：核心思想与源码分析》 [百度云链接](https://pan.baidu.com/s/1_wOyrysgbmXdFOrMZikm2Q ) 提取码：rkov 
-- 《图解Spark  -  核心技术与案例实战》 [百度云链接](https://pan.baidu.com/s/14qC88dEgX9zMwqRTvdSecA )  提取码：kfaj 
 
 ##### 2.3 - Java工具
 
@@ -283,7 +283,7 @@
 
 #### 04 - Go语言
 
-- 《Go_web_编程》 [百度云链接](https://pan.baidu.com/s/1XHGe8wFZ_x3UeGyzgyMARA )   提取码：h9qu 
+- 《Go Web 编程》 [百度云链接](https://pan.baidu.com/s/1XHGe8wFZ_x3UeGyzgyMARA )   提取码：h9qu 
   
 - 《Go并发编程实战》 [百度云链接](https://pan.baidu.com/s/15m5sR-2S6xF57vDW9Qi0Fg )  提取码：7t2d 
   
@@ -304,7 +304,7 @@
 
 #### 05 - 数据结构与算法
 
-- 《cookbook-LeetCode》 [百度云链接](https://pan.baidu.com/s/1lExDvtaqr-IWxvT1AHBE1g )  提取码：evzs 
+- 《Cookbook-LeetCode》 [百度云链接](https://pan.baidu.com/s/1lExDvtaqr-IWxvT1AHBE1g )  提取码：evzs 
   
 - 《Cormen-Introduction to Algorithms》 [百度云链接](https://pan.baidu.com/s/17rtAshLD_kPrk3ohKbxbkg )  提取码：unt9 
   
@@ -367,89 +367,51 @@
 
 #### 06 - 操作系统
 
-- 《30天自制操作系统 (图灵程序设计丛书)》 [百度云链接](https://pan.baidu.com/s/1oY_pKauVOso44BKKKU8pYQ )   提取码：vtbf 
-  
-- 《CMU2017-Lab》 [百度云链接](https://pan.baidu.com/s/1YjrpbkoJ3QEbgduCGBV10A)    提取码：fabh 
-  
-- 《Compilers_ Principles, Techniques, and Tools》 [百度云链接](https://pan.baidu.com/s/1bxyVbHGZv8TkFMe4pVGMUw )   提取码：o3h5 
-  
-- 《Computer Systems_ A Programmer's Perspective》 [百度云链接](https://pan.baidu.com/s/1DfRNQzaDTVSTItkLPHTqbA )   提取码：p5kp 
-  
-- 《Orange's一个操作系统的实现》 [百度云链接](https://pan.baidu.com/s/1BucJk6YqXzGAIiBI6oAwyQ)   提取码：u6ic 
-  
-- 《编译原理》 [百度云链接](https://pan.baidu.com/s/1xyRsZNjvt7ah3UbL3I8TMw)   提取码：8i54 
-  
-- 《操作系统概念 - 英文版》 [百度云链接](https://pan.baidu.com/s/1TjgS3Juxo72hdGYJkKDjHA)   提取码：2rof 
-  
-- 《操作系统概念》 [百度云链接](https://pan.baidu.com/s/1rjfR6Qvyo1jbr-LzcRQ9dg)    提取码：u3by 
-  
-- 《操作系统概述 - 公众号资源》  [百度云链接](https://pan.baidu.com/s/1Iy2BQCOIzYW_S1Tv6fVDZA)   提取码：apgg 
-  
-- 《操作系统精髓与设计原理 第8版》 [百度云链接](https://pan.baidu.com/s/1TD_TFEcXwV8xxxA10hDBXg)   提取码：buzn 
-  
-- 《操作系统精髓与设计原理 第9版》 [百度云链接](https://pan.baidu.com/s/1NAUB37lqUwkGvHpi3O-1xQ)   提取码：y7pk 
-  
-- 《操作系统设计与实现》 [百度云链接](https://pan.baidu.com/s/1Rp7orpMgo1rjU59GGMo_mg)   提取码：fvo8 
-  
-- 《操作系统真象还原》 [百度云链接](https://pan.baidu.com/s/11_ZXZ0415gKbuhwTKf66hw)    提取码：blrx 
-  
-- 《操作系统之哲学原理 第2版》 [百度云链接](https://pan.baidu.com/s/1iOwocriRPY8UMZWbVmXTaA )   提取码：xzzn 
-  
-- 《分布式系统概念与设计 原书第5版》 [百度云链接](https://pan.baidu.com/s/1RFp3qAyfhoFd4u8fkKlxcQ )   提取码：r2wn 
-  
-- 《计算机系统要素 - 从零开始构建现代计算机》 [百度云链接](https://pan.baidu.com/s/1FsEHp6bPkdZVaFEiK3pCIA )   提取码：hylp 
-  
 - 《深入理解计算机系统 第3版》 [百度云链接](https://pan.baidu.com/s/1_J-lMdgmx_Pjw0B-mB3cOA)   提取码：rqey 
-  
 - 《现代操作系统 - 英文版》 [百度云链接](https://pan.baidu.com/s/11uvYULUEOm-Wu827PX1i-g )   提取码：9kvb 
-  
 - 《现代操作系统（第三版）中文版》 [百度云链接](https://pan.baidu.com/s/1Wfzq1gWF9dEaXVgSXoLKgQ )   提取码：qmfc 
-  
+- 《30天自制操作系统 (图灵程序设计丛书)》 [百度云链接](https://pan.baidu.com/s/1oY_pKauVOso44BKKKU8pYQ )   提取码：vtbf 
+- 《操作系统设计与实现》 [百度云链接](https://pan.baidu.com/s/1Rp7orpMgo1rjU59GGMo_mg)   提取码：fvo8 
+- 《操作系统真象还原》 [百度云链接](https://pan.baidu.com/s/11_ZXZ0415gKbuhwTKf66hw)    提取码：blrx 
+- 《操作系统精髓与设计原理 第8版》 [百度云链接](https://pan.baidu.com/s/1TD_TFEcXwV8xxxA10hDBXg)   提取码：buzn 
+- 《操作系统精髓与设计原理 第9版》 [百度云链接](https://pan.baidu.com/s/1NAUB37lqUwkGvHpi3O-1xQ)   提取码：y7pk 
 - 《自己动手写操作系统》 [百度云链接](https://pan.baidu.com/s/1rpTNR_f5VgTtVy-swSim9w )   提取码：zzvy 
-  
+- 《CMU2017-Lab》 [百度云链接](https://pan.baidu.com/s/1YjrpbkoJ3QEbgduCGBV10A)    提取码：fabh 
+- 《Compilers_ Principles, Techniques, and Tools》 [百度云链接](https://pan.baidu.com/s/1bxyVbHGZv8TkFMe4pVGMUw )   提取码：o3h5 
+- 《Computer Systems_ A Programmer's Perspective》 [百度云链接](https://pan.baidu.com/s/1DfRNQzaDTVSTItkLPHTqbA )   提取码：p5kp 
+- 《Orange's一个操作系统的实现》 [百度云链接](https://pan.baidu.com/s/1BucJk6YqXzGAIiBI6oAwyQ)   提取码：u6ic 
+- 《编译原理》 [百度云链接](https://pan.baidu.com/s/1xyRsZNjvt7ah3UbL3I8TMw)   提取码：8i54 
+- 《操作系统概念 - 英文版》 [百度云链接](https://pan.baidu.com/s/1TjgS3Juxo72hdGYJkKDjHA)   提取码：2rof 
+- 《操作系统概念》 [百度云链接](https://pan.baidu.com/s/1rjfR6Qvyo1jbr-LzcRQ9dg)    提取码：u3by 
+- 《操作系统概述 - 公众号资源》  [百度云链接](https://pan.baidu.com/s/1Iy2BQCOIzYW_S1Tv6fVDZA)   提取码：apgg 
+- 《操作系统之哲学原理 第2版》 [百度云链接](https://pan.baidu.com/s/1iOwocriRPY8UMZWbVmXTaA )   提取码：xzzn 
+- 《分布式系统概念与设计 原书第5版》 [百度云链接](https://pan.baidu.com/s/1RFp3qAyfhoFd4u8fkKlxcQ )   提取码：r2wn 
+- 《计算机系统要素 - 从零开始构建现代计算机》 [百度云链接](https://pan.baidu.com/s/1FsEHp6bPkdZVaFEiK3pCIA )   提取码：hylp 
 
 #### 07 - Linux
 
-- 《[Linux命令详解词典].施威铭研究室.扫描版》 [百度云链接](https://pan.baidu.com/s/1TS1idjijuZCXTgQfb6vTjQ )   提取码：oc3u 
-  
-- 《Advanced Programming in the UNIX® Environment》 [百度云链接](https://pan.baidu.com/s/1kUpdpnbTavbRGzr42Pmbiw )   提取码：sm6b 
-  
-- 《Harley Hahn's Guide to UNIX and Linux》 [百度云链接](https://pan.baidu.com/s/1pZwME_usn6ieDsP0d2o9eg )   提取码：99c1 
-  
-- 《Linux Kernel Development》 [百度云链接](https://pan.baidu.com/s/1yaF6nMPQspvNNP4oA6uadQ )   提取码：rvnn 
-  
 - 《Linux 内核设计与实现》 [百度云链接](https://pan.baidu.com/s/1TyDQo4sQNw4y-jf_2cvYsQ)   提取码：1f28 
-  
 - 《Linux_UNIX系统编程手册两部曲》 [百度云链接](https://pan.baidu.com/s/1REFiUQQoC4Z2RzR_RDiViA)   提取码：z8ad 
-  
 - 《Linux宝典》 [百度云链接](https://pan.baidu.com/s/1DItPt6A1P-id40zB0__5Pw)   提取码：225z 
-  
 - 《Linux常用命令大全》 [百度云链接](https://pan.baidu.com/s/1uRT7xh_83LoM004lmB8NgA )   提取码：8b4u 
-  
 - 《LINUX防火墙（原书第3版）》 [百度云链接](https://pan.baidu.com/s/1GM0iXFNca6Secz893tMc8g)    提取码：o9md 
-  
 - 《Linux高级程序设计中文第三版杨宗德--人电出版社》 [百度云链接](https://pan.baidu.com/s/1iXnRNkGjURXvKoANWrq8UA)   提取码：4cms 
-  
 - 《Linux环境编程：从应用到内核》 [百度云链接](https://pan.baidu.com/s/1gnseg9k8eFv73b0DWrETAQ )   提取码：8v8w 
-  
 - 《Linux内核设计与实现 第3版》 [百度云链接](https://pan.baidu.com/s/1G7JK6vYcHLUBLeGGlBkSjw)   提取码：vzmc 
-  
 - 《Linux内核完全注释》 [百度云链接](https://pan.baidu.com/s/1JMZnMxOTxj99QYhvVTT0jA)   提取码：wr95 
-  
-- 《Linux系统命令及shell脚本实践指南linuxunix技术丛书》 [百度云链接](https://pan.baidu.com/s/1q8d4wVSkumyjhWphyTIZiw )   提取码：gygv 
-  
+- 《Linux系统命令及shell脚本实践指南Linux unix技术丛书》 [百度云链接](https://pan.baidu.com/s/1q8d4wVSkumyjhWphyTIZiw )   提取码：gygv 
 - 《Unix & Linux 大学教程》 [百度云链接](https://pan.baidu.com/s/1NNbY2MaJ6qudamuaiEKzZA)   提取码：thfb 
-  
 - 《UNIX网络编程三部曲》 [百度云链接](https://pan.baidu.com/s/1AjRJHzduW845W4_VIAyR2w)   提取码：3ez6 
-  
-- 《汇编语言基于linux环境第3版》 [百度云链接](https://pan.baidu.com/s/1WseMMExVQ6_N6MQriTY22w)    提取码：0357 
-  
+- 《汇编语言基于Linux环境第3版》 [百度云链接](https://pan.baidu.com/s/1WseMMExVQ6_N6MQriTY22w)    提取码：0357 
 - 《鸟哥的Linux私房菜基础篇和服务器篇》 [百度云链接](https://pan.baidu.com/s/1JXQX2kDGVuq_JRpwK9z8jw )   提取码：kbpi 
-  
-- 《深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)》 [百度云链接](https://pan.baidu.com/s/1sld7OS999MC2rjXWjRslsA )   提取码：6int 
-  
+- 《深入Linux内核架构 (图灵程序设计丛书·Linux UNIX系列)》 [百度云链接](https://pan.baidu.com/s/1sld7OS999MC2rjXWjRslsA )   提取码：6int 
 - 《深入理解Linux内核》 [百度云链接](https://pan.baidu.com/s/1eJ8nXGOUW1cyIKyNEY4SPA )    提取码：sm3l 
-  
+- 《[Linux命令详解词典].施威铭研究室.扫描版》 [百度云链接](https://pan.baidu.com/s/1TS1idjijuZCXTgQfb6vTjQ )   提取码：oc3u 
+- 《Advanced Programming in the UNIX® Environment》 [百度云链接](https://pan.baidu.com/s/1kUpdpnbTavbRGzr42Pmbiw )   提取码：sm6b 
+
+- 《Harley Hahn's Guide to UNIX and Linux》 [百度云链接](https://pan.baidu.com/s/1pZwME_usn6ieDsP0d2o9eg )   提取码：99c1 
+
+- 《Linux Kernel Development》 [百度云链接](https://pan.baidu.com/s/1yaF6nMPQspvNNP4oA6uadQ )   提取码：rvnn 
 
 #### 08 - 后端架构
 
@@ -463,87 +425,50 @@
 
 #### 09 - 计算机系统知识
 
-- 《Patterson-Computer Organization and Design_The Hardware_Software Interface》 [百度云链接](https://pan.baidu.com/s/1_1wOcREbVyP-mY78ximbeQ ) 提取码：zn24 
-  
 - 《大话计算机》 [百度云链接](https://pan.baidu.com/s/1DFvp8RlQLMN4_4iYiBo1YQ ) 提取码：9jc8 
-  
 - 《编码：隐匿在计算机软硬件背后的语言》 [百度云链接](https://pan.baidu.com/s/112j7NXaFxzAusaLkZau9uQ ) 提取码：60p1 
-  
 - 《程序是怎样跑起来的》 [百度云链接](https://pan.baidu.com/s/15BjPm4uFvJHNoedrOjCdIg ) 提取码：u30m 
-  
-- 《程序员的自我修养—链接、装载与库--书签目录版本》 [百度云链接](https://pan.baidu.com/s/1DwDoGT8eEoMTpVOKJkQ4wg ) 提取码：ivmv 
-  
 - 《计算机是怎样跑起来的》 [百度云链接](https://pan.baidu.com/s/1drr-zVUYsAqvFFM_aVpEIg ) 提取码：uwfk 
-  
+- 《程序员的自我修养—链接、装载与库--书签目录版本》 [百度云链接](https://pan.baidu.com/s/1DwDoGT8eEoMTpVOKJkQ4wg ) 提取码：ivmv 
 - 《计算机组成与设计：硬件_软件接口》 [百度云链接](https://pan.baidu.com/s/1q7Bp_4sEqhFUzhrTUrprRA ) 提取码：dhda 
-  
+- 《Patterson-Computer Organization and Design_The Hardware_Software Interface》 [百度云链接](https://pan.baidu.com/s/1_1wOcREbVyP-mY78ximbeQ ) 提取码：zn24 
 
 #### 10 - 计算机网络
 
-- 《Computer Networking_ A Top-down Approach》 [百度云链接](https://pan.baidu.com/s/1A5IxiuiuIb80vaW5OAvBTQ ) 提取码：ewr3 
-  
-- 《Computer Networks, A Systems Approach》 [百度云链接](https://pan.baidu.com/s/13f2pu5TKfYBK8oXEmvDPtg ) 提取码：o98i 
-  
-- 《HTTP核心总结》 [百度云链接](https://pan.baidu.com/s/157of30-s21okWDgBz-FG6A ) 提取码：2fk9 
-  
-- 《HTTP权威指南》 [百度云链接](https://pan.baidu.com/s/1_1GR-53UE6HHaHnzjdeq6Q ) 提取码：1jhn 
-  
-- 《TCPIP详解三部曲-卷一、卷二、卷三》 [百度云链接](https://pan.baidu.com/s/19w_KMoCWHnZdXsLMb0-Irg ) 提取码：hkbz 
-  
-- 《TCP源码分析》 [百度云链接](https://pan.baidu.com/s/1e9x58bRuntVMR-igdnnuIA ) 提取码：dhlo 
-  
-- 《Wireshark 数据包分析实战（第二版）》 [百度云链接](https://pan.baidu.com/s/126-_exlgE1gwqDc7eBKl5w ) 提取码：shyo 
-  
-- 《Wireshark网络分析的艺术》 [百度云链接](https://pan.baidu.com/s/1eaCwGFXC5t_7sOaZyGSaIg ) 提取码：lljf 
-  
-- 《Wireshark网络分析就这么简单》 [百度云链接](https://pan.baidu.com/s/1S179DBl2xp1AfT3MQXKDwg ) 提取码：9j5j 
-  
-- 《计算机网络 第七版》 [百度云链接](https://pan.baidu.com/s/1qcRML0XOAFWzo9OwJfVAwQ ) 提取码：89yv 
-  
 - 《计算机网络-自顶向下方法-第6版》 [百度云链接](https://pan.baidu.com/s/1iLzPlkAylfyKGso1rtwWzQ ) 提取码：oj35 
-  
 - 《计算机网络：自顶向下方法课后习题参考答案》 [百度云链接](https://pan.baidu.com/s/1nsl7kc7bx4faRcwKXmYCvQ ) 提取码：d25h 
-  
+- 《HTTP核心总结》 [百度云链接](https://pan.baidu.com/s/157of30-s21okWDgBz-FG6A ) 提取码：2fk9 
+- 《HTTP权威指南》 [百度云链接](https://pan.baidu.com/s/1_1GR-53UE6HHaHnzjdeq6Q ) 提取码：1jhn 
+- 《TCPIP详解三部曲-卷一、卷二、卷三》 [百度云链接](https://pan.baidu.com/s/19w_KMoCWHnZdXsLMb0-Irg ) 提取码：hkbz 
+- 《TCP源码分析》 [百度云链接](https://pan.baidu.com/s/1e9x58bRuntVMR-igdnnuIA ) 提取码：dhlo 
+- 《Wireshark 数据包分析实战（第二版）》 [百度云链接](https://pan.baidu.com/s/126-_exlgE1gwqDc7eBKl5w ) 提取码：shyo 
+- 《Wireshark网络分析的艺术》 [百度云链接](https://pan.baidu.com/s/1eaCwGFXC5t_7sOaZyGSaIg ) 提取码：lljf 
+- 《Wireshark网络分析就这么简单》 [百度云链接](https://pan.baidu.com/s/1S179DBl2xp1AfT3MQXKDwg ) 提取码：9j5j 
+- 《计算机网络 第七版》 [百度云链接](https://pan.baidu.com/s/1qcRML0XOAFWzo9OwJfVAwQ ) 提取码：89yv 
 - 《计算机网络：系统方法》 [百度云链接](https://pan.baidu.com/s/1NP0JtrCcKz7KP03ivuf-nA ) 提取码：uhke 
-  
 - 《图解HTTP》 [百度云链接](https://pan.baidu.com/s/1F-xfG8fnSIu_bS_ehkZvdw ) 提取码：faxi 
-  
 - 《图解TCPIP(第5版)》 [百度云链接](https://pan.baidu.com/s/1kvM_vINqRdgIe-SBnIDKjA ) 提取码：j86n 
-  
 - 《网络是怎样连接的 (图灵程序设计丛书)》 [百度云链接](https://pan.baidu.com/s/1MXO3asDFShFC7C1tzT3vSg ) 提取码：vhm1 
-  
+- 《Computer Networking_ A Top-down Approach》 [百度云链接](https://pan.baidu.com/s/1A5IxiuiuIb80vaW5OAvBTQ ) 提取码：ewr3 
+- 《Computer Networks, A Systems Approach》 [百度云链接](https://pan.baidu.com/s/13f2pu5TKfYBK8oXEmvDPtg ) 提取码：o98i 
 
 #### 11 - 数据库
 
-- 《Database System Concepts》 [百度云链接](https://pan.baidu.com/s/1MQ2fh9QjH6BxntQbuiQNgg ) 提取码：1u2u 
-  
-- 《MongoDB权威指南》 [百度云链接](https://pan.baidu.com/s/1trgNvpJyXt-T6VVbEUwFbw ) 提取码：vcca 
-  
-- 《MySQL技术内幕  InnoDB存储引擎  第2版》 [百度云链接](https://pan.baidu.com/s/1qVtnm_HhPEQbPPQp0Lcf4g ) 提取码：c9qa 
-  
-- 《Redis设计与实现》 [百度云链接](https://pan.baidu.com/s/1pV6nTDFJTS7IuFG1LKUK6g ) 提取码：r7r6 
-  
-- 《Redis实战》 [百度云链接](https://pan.baidu.com/s/1QyrBT_VYLvuI25KeorLMfQ ) 提取码：eebx 
-  
-- 《SQLite 权威指南》 [百度云链接](https://pan.baidu.com/s/1OpzEYWcYzCnsUDgjJoujeg ) 提取码：5bh2 
-  
-- 《SQL查询的艺术》 [百度云链接](https://pan.baidu.com/s/13a9gJZ7zy69qGOresD5dTQ ) 提取码：tsfm 
-  
 - 《MySQL必知必会 PDF + 源码》 [百度云链接](https://pan.baidu.com/s/1Pvs923qKDNAQdNhLtIZ8jA ) 提取码：olvd 
-  
-- 《分布式数据库系统  大数据时代新型数据库技术》 [百度云链接](https://pan.baidu.com/s/1mHpGbyPqcR1RHHWYG6m4rg ) 提取码：zsxl 
-  
-- 《分布式数据库系统原理.第3版》 [百度云链接](https://pan.baidu.com/s/198SOMGm1U6ksiB5Dk2jiNw ) 提取码：xkv4 
-  
-- 《高性能MySQL（第3版）].Baron.Scbwartz等.扫描版》 [百度云链接](https://pan.baidu.com/s/1EFj1KKQ61WNMlHT48mwYhw ) 提取码：nszh 
-  
-- 《深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明》 [百度云链接](https://pan.baidu.com/s/18BeYVzM0FDk3DdSAfy-4yQ ) 提取码：a0uo 
-  
-- 《数据库系统概念 中文第6版》 [百度云链接](https://pan.baidu.com/s/1l3zRQukLpRjXEI6625jAZw ) 提取码：fupf 
-  
-- 《数据库系统概念》 [百度云链接](https://pan.baidu.com/s/1TI2TK1TbiHZiXfWZGaDKlA ) 提取码：eugi 
-  
 - 《数据库系统实现（第二版）》 [百度云链接](https://pan.baidu.com/s/1QaYz2VnJVrAMW1V9qQM2ng ) 提取码：hjds 
+- 《高性能MySQL（第3版）].Baron.Scbwartz等.扫描版》 [百度云链接](https://pan.baidu.com/s/1EFj1KKQ61WNMlHT48mwYhw ) 提取码：nszh 
+- 《深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明》 [百度云链接](https://pan.baidu.com/s/18BeYVzM0FDk3DdSAfy-4yQ ) 提取码：a0uo 
+- 《数据库系统概念》 [百度云链接](https://pan.baidu.com/s/1TI2TK1TbiHZiXfWZGaDKlA ) 提取码：eugi 
+- 《Database System Concepts》 [百度云链接](https://pan.baidu.com/s/1MQ2fh9QjH6BxntQbuiQNgg ) 提取码：1u2u 
+- 《MongoDB权威指南》 [百度云链接](https://pan.baidu.com/s/1trgNvpJyXt-T6VVbEUwFbw ) 提取码：vcca 
+- 《MySQL技术内幕  InnoDB存储引擎  第2版》 [百度云链接](https://pan.baidu.com/s/1qVtnm_HhPEQbPPQp0Lcf4g ) 提取码：c9qa 
+- 《Redis设计与实现》 [百度云链接](https://pan.baidu.com/s/1pV6nTDFJTS7IuFG1LKUK6g ) 提取码：r7r6 
+- 《Redis实战》 [百度云链接](https://pan.baidu.com/s/1QyrBT_VYLvuI25KeorLMfQ ) 提取码：eebx 
+- 《SQLite 权威指南》 [百度云链接](https://pan.baidu.com/s/1OpzEYWcYzCnsUDgjJoujeg ) 提取码：5bh2 
+- 《SQL查询的艺术》 [百度云链接](https://pan.baidu.com/s/13a9gJZ7zy69qGOresD5dTQ ) 提取码：tsfm 
+- 《分布式数据库系统  大数据时代新型数据库技术》 [百度云链接](https://pan.baidu.com/s/1mHpGbyPqcR1RHHWYG6m4rg ) 提取码：zsxl 
+- 《分布式数据库系统原理.第3版》 [百度云链接](https://pan.baidu.com/s/198SOMGm1U6ksiB5Dk2jiNw ) 提取码：xkv4 
+- 《数据库系统概念 中文第6版》 [百度云链接](https://pan.baidu.com/s/1l3zRQukLpRjXEI6625jAZw ) 提取码：fupf 
 
 
 #### 12 - 前端&全栈
@@ -562,7 +487,7 @@
 - 《Node.js开发指南》 [百度云链接](https://pan.baidu.com/s/1ZO8AVB8ECEcFLl8kGppBGg )  提取码：r1oj 
 - 《nodebook》 [百度云链接](https://pan.baidu.com/s/1pJ4sLnCMUPeceDrM7pz9mA ) 提取码：himg 
   
-- 《【JavaScript高级程序设计（第3版）】中文 高清》 [百度云链接](https://pan.baidu.com/s/1yW9-ZzPkKyNRePdYEK7E3A ) 提取码：uus7 
+- 《JavaScript高级程序设计（第3版）中文 高清》 [百度云链接](https://pan.baidu.com/s/1yW9-ZzPkKyNRePdYEK7E3A ) 提取码：uus7 
 - 《疯狂AJAX讲义》 [百度云链接](https://pan.baidu.com/s/1-IJNk0xIKYRpfx2SAjPC2g ) 提取码：w85h 
 - 《深入浅出Node.js》 [百度云链接](https://pan.baidu.com/s/1vZuoMxAwEbJl9wc6Vlmo7Q ) 提取码：cmkj 
 
@@ -650,13 +575,19 @@
 
 #### 18 - 数学相关
 
-- 《Computational Complexity_ A Modern Approach》 [百度云链接](https://pan.baidu.com/s/1-XpRBBfJpv9F40R7wwG0_w )  提取码：vq08
-- 《Discrete Mathematics and Its Applications》 [百度云链接](https://pan.baidu.com/s/1Tp-DYhM6CfLflqPDB4BF_g)   提取码：fuox
-- 《Operations Research Applications And Algorithms》 [百度云链接](https://pan.baidu.com/s/18q6kf2pYT708E9pZoq0HQQ)   提取码：lrou
 - 《程序员的数学三部曲》 [百度云链接](https://pan.baidu.com/s/1qokyemses78ldxll2xHUcg)   提取码：uy6o
+
 - 《计算复杂性：现代方法》 [百度云链接](https://pan.baidu.com/s/1TDVfB4RQKMDriq4dZfNuWg)   提取码：yu3m
+
 - 《离散数学及其应用》 [百度云链接](https://pan.baidu.com/s/17e1KX0j5RCNcd8JnWPrNrw )  提取码：gcbx
+
 - 《数学之美》 [百度云链接](https://pan.baidu.com/s/1IBIViE2Sifx-ANFU12nmPQ)   提取码：vxqr
+
+- 《Computational Complexity_ A Modern Approach》 [百度云链接](https://pan.baidu.com/s/1-XpRBBfJpv9F40R7wwG0_w )  提取码：vq08
+
+- 《Discrete Mathematics and Its Applications》 [百度云链接](https://pan.baidu.com/s/1Tp-DYhM6CfLflqPDB4BF_g)   提取码：fuox
+
+- 《Operations Research Applications And Algorithms》 [百度云链接](https://pan.baidu.com/s/18q6kf2pYT708E9pZoq0HQQ)   提取码：lrou
 
 - #### 19 - 程序员个人能力提升
 
