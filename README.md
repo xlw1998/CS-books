@@ -1,6 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -174,7 +172,7 @@
 
 ##### 3.1 Python书籍
 
-- 《编程小白的第一本python入门书》 [百度云链接  提取码：bjl4 
+- 《编程小白的第一本python入门书》 [百度云链接](https://pan.baidu.com/s/1ZuwmzTlOGqmsSMSyxmfsog )  提取码：bjl4 
 - 《笨办法学.Python.（第三版）》 [百度云链接](https://pan.baidu.com/s/1ebex54bAnxr-8xrjAPWecw )  提取码：516m 
 - 《可爱的Python插图版_文字版》 [百度云链接](https://pan.baidu.com/s/1zxL-3Wwea3CmRqDo41r8Mg)  提取码：4yln 
 - 《A Byte of Python3(中文版)》 [百度云链接](https://pan.baidu.com/s/1yztl8hzdTpWpxpCorpzB5Q)  提取码：ic4e 
@@ -193,7 +191,7 @@
 - 《Python核心编程 第3版 中文版》 [百度云链接](https://pan.baidu.com/s/1TvqZpEJtBi5bxg2htTjd5g )  提取码：umlb 
 - 《Python核心编程翻译版第二版》 [百度云链接](https://pan.baidu.com/s/1ceg53dJIziyZLu2kl-QT1Q )  提取码：5gg3 
 - 《Python灰帽子—黑客与逆向工程师的Python编程之道》 [百度云链接](https://pan.baidu.com/s/1Nvsrh_2qK2BahQ0_zhJNOw )  提取码：9vo0 
-- 《Python基础教程（第二版）》 [百度云链接  提取码：r10m 
+- 《Python基础教程（第二版）》 [百度云链接](https://pan.baidu.com/s/1nbFJI0pfWVtiTX7duab_iA )  提取码：r10m 
 - 《Python开发技术详解》 [百度云链接](https://pan.baidu.com/s/1D4DtRUHZG1z3XTQIP1U7rQ )  提取码：r6ca 
 - 《Python开发实战》 [百度云链接](https://pan.baidu.com/s/1T82h4i0ALu09LqbtP6_bpA )  提取码：9qce 
 - 《Python入门教材(中文)》 [百度云链接](https://pan.baidu.com/s/1fazYRtZuPwe8oKaVSLWRhA )  提取码：d90e 
@@ -714,5 +712,7 @@
 | **远       | 感谢分享                 | 1.0元    | 支付宝   | 2021-01-20 | [github仓库](https://github.com/forthespada/CS-Books) |
 | **杰       | 大佬有一起打包的链接不？ | 6.6元    | 支付宝   | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
 | **丽       | 谢谢大佬辛苦整理         | 9.9元    | 微信     | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
+| A*r        | 感谢分享                 | 9.9元    | 微信     | 2021-01-22 | [github仓库](https://github.com/forthespada/CS-Books) |
 
  
+
