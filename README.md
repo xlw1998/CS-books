@@ -1,6 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -206,9 +204,7 @@
 ##### 3.2 Python爬虫
 
 - 《Python3网络爬虫数据采集》 [百度云链接](https://pan.baidu.com/s/1OLmGm-IZOtwKrRRRpVu5xw )  提取码：jkk3 
-  
-- 《精通Scrapy网络爬虫》 [百度云链接](https://pan.baidu.com/s/1YPargQeIu3xYnJ3dAF1xRw )  提取码：ewds 
-  
+- 《精通Scrapy网络爬虫 - 刘硕》  [百度云链接](https://pan.baidu.com/s/1wV51nhVt0dYMczMEJGjoww )  提取码：0f1v 
 - 《用Python写网络爬虫》 [百度云链接](https://pan.baidu.com/s/160g7nG95o4qoI3ajaCrRbw )  提取码：657p 
   
 
@@ -293,7 +289,9 @@
 - 《计算机程序设计艺术卷1：基本算法》 [百度云链接](https://pan.baidu.com/s/1WDSHk8N5sjzXna_he8LZ6w )  提取码：4ey6 
 - 《计算机程序设计艺术卷2：半数值算法》 [百度云链接](https://pan.baidu.com/s/1EeiGyvuzyvloQkH7_b9zZA )  提取码：tmep 
 - 《计算机程序设计艺术卷3：排序与查找》 [百度云链接](https://pan.baidu.com/s/1secLsfX8_d2bnsR7b9EJFA ) 提取码：ebud 
-- 《剑指offer》 [百度云链接](https://pan.baidu.com/s/1ZpLaXTtkX1MMuD9bu_3oHQ )  提取码：20z4 
+- 《剑指Offer》 [百度云链接](https://pan.baidu.com/s/1ZpLaXTtkX1MMuD9bu_3oHQ )  提取码：20z4
+- 《汇集牛客高赞解法的67道剑指offer-阿秀个人笔记版》 [百度云链接](https://pan.baidu.com/s/1owWHArZ0WrAs1hlsf9_mng )   提取码：wtty 
+
 - 《漫画算法：小灰的算法之旅》 [百度云链接](https://pan.baidu.com/s/1FkP7Axl6s23p2jF56unqwg ) 提取码：2fof  
 - 《妙趣横生的算法（C语言实现 第2版）》 [百度云链接](https://pan.baidu.com/s/1Wxyl6EFPOctNU0ZgpHA_ig ) 提取码：uvm8 
 - 《数据结构与算法 Python语言描述_裘宗燕》 [百度云链接](https://pan.baidu.com/s/11Z_Cs4_MQIxhJyhz_AJXQg)  提取码：1c9u 
