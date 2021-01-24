@@ -577,6 +577,8 @@
 - 《机器学习 算法工程师带你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
 - 《机器学习常见面试题》 [百度云链接](https://pan.baidu.com/s/1QzdmIUt8B_7GXR1WFN4aqw )  提取码：i9yw
 - 《招聘笔记》 [百度云链接](https://pan.baidu.com/s/1ZG3pUJP9s2LTouZIgabh4A )  提取码：q48f
+- 《校招求职分享直播PPT - 分享人：拱白菜的阿秀》 [百度云链接](https://pan.baidu.com/s/1j8KpU6tETcVrMWDYcfPIeQ )  提取码：wnh8 
+  
 
 
 
