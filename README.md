@@ -1,5 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -23,7 +22,7 @@
   <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
 </p>                                                 
 
-#### [阿秀个人公众号、知乎等平台原创技术文章和资源合集](https://github.com/forthespada/CSLearning)（点开它，相信我，你一定能有所收获的）
+#### [阿秀个人公众号、知乎等平台原创技术文章和资源合集](https://gitee.com/ForthEspada/CSLearning)（点开它，相信我，你一定能有所收获的）
 
 
 
