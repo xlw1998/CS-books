@@ -1,6 +1,5 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -95,6 +94,8 @@
 
 #### 01 - C++
 
+- 《侯捷C++视频合集-包括C++面向对象开发&STL标准库与源码解析&C++内存管理机制&C++新标准C++11&14》 [百度云链接](https://pan.baidu.com/s/1836cf7YZT040sKmGxegYSA )  提取码：19hl 
+- 《陈硕-Linux&C++ 网络编程实践》 [百度云链接](https://pan.baidu.com/s/1ydTecrZg5V5wIVlFxshZKw )   提取码：ubjp 
 - 《C++ Primer Plus》 [百度云链接](https://pan.baidu.com/s/1TzMuz-lAwZYNptDET84F6g ) 提取码：zy86 
 - 《C++ Primer(第五版)带书签 高清完整版》 [百度云链接](https://pan.baidu.com/s/1ADj-FnyloWB4xeobjVimeA ) 提取码：ksax 
 - 《C++ Primer 习题集》 [百度云链接](https://pan.baidu.com/s/1S_iGX7aWf_xHROheDr0LBw ) 提取码：yjqc 
@@ -109,7 +110,6 @@
 - 《提高C++性能的编程技术.左飞》 [百度云链接](https://pan.baidu.com/s/1EhRbebB5VqVFcvv3QYiUhg )  提取码：d2wk 
 - 《Effective-C++-第二版》[百度云链接](https://pan.baidu.com/s/17PHddLiLYJ0ZuJc64jxL3A )  提取码：4ha8 
 - 《深入理解C++11新特性解析与应用》[百度云链接](https://pan.baidu.com/s/1vFPvSLDxJWivUmZj-ntmwQ )  提取码：b9hr 
-
 - 《Effective C++ 第三版 高清PDF》 [百度云链接](https://pan.baidu.com/s/1DgblW6ia5MY4YUd4w8hG4A ) 提取码：drvd 
 - 《Effective STL中文版》 [百度云链接](https://pan.baidu.com/s/1Di-1-MMHTAMe5_1oksJCpA ) 提取码：ifhx 
 - 《C++ 编程规范-101条规则准则与最佳实践》 [百度云链接](https://pan.baidu.com/s/15yklDyd61mP9lzfWxTNhCg ) 提取码：evgk 
