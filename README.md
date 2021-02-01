@@ -1,5 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -591,6 +590,8 @@
 #### 21 - 社招校招各种面经汇总
 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/17_8t52Z2UtRuflNy4ybzBw)   提取码：luao
+- 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/1UKyKcbdWJJsfdOmLqUu9_Q )   提取码：wh3l 
+- 《Java大厂面试总结》  [百度云链接](https://pan.baidu.com/s/14xD_nZ2rb64LG1_ZZSOyQA )   提取码：4bn1 
 - 《C++面经 - 牛客大佬总结的涉及C++ 操作系统 计算机网络 数据库等知识点》 [百度云链接](https://pan.baidu.com/s/1oT9oIgPvXDEG01LaNbOU_g )  提取码：czbh 
 - 《程序员面试宝典》 [百度云链接](https://pan.baidu.com/s/1pikO4SHPCMFlvd-xF_B_2A )  提取码：gm2t
 - 《机器学习 算法工程师带你去面试》 [百度云链接](https://pan.baidu.com/s/1Y9eDhh-B3qgKFeUTTKm23Q )  提取码：n7pm
@@ -624,6 +625,7 @@
 | **宇       | 感谢分享，希望再加一个<br/>全部打包的链接 | 9.9元    | 支付宝   | 2021-01-22 | [github仓库](https://github.com/forthespada/CS-Books) |
 | *ク        | 感谢分享                                  | 6.6元    | 微信     | 2021-01-23 | [github仓库](https://github.com/forthespada/CS-Books) |
 | *子        | 大佬的故事很励志                          | 8.8元    | 微信     | 2021-01-27 | [github仓库](https://github.com/forthespada/CS-Books) |
+| l*y        |                                           | 1.0元    | 微信     | 2021-02-01 | [github仓库](https://github.com/forthespada/CS-Books) |
 
  
 
