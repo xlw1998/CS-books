@@ -598,7 +598,7 @@
 #### 21 - 社招校招各种面经汇总
 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/17_8t52Z2UtRuflNy4ybzBw)   提取码：luao
-- 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/1UKyKcbdWJJsfdOmLqUu9_Q )   提取码：wh3l 
+- 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
 - 《Java大厂面试总结》  [百度云链接](https://pan.baidu.com/s/14xD_nZ2rb64LG1_ZZSOyQA )   提取码：4bn1 
 - 《C++面经 - 牛客大佬总结的涉及C++ 操作系统 计算机网络 数据库等知识点》 [百度云链接](https://pan.baidu.com/s/1oT9oIgPvXDEG01LaNbOU_g )  提取码：czbh 
 - 《程序员面试宝典》 [百度云链接](https://pan.baidu.com/s/1pikO4SHPCMFlvd-xF_B_2A )  提取码：gm2t
@@ -606,7 +606,7 @@
 - 《机器学习常见面试题》 [百度云链接](https://pan.baidu.com/s/1QzdmIUt8B_7GXR1WFN4aqw )  提取码：i9yw
 - 《招聘笔记》 [百度云链接](https://pan.baidu.com/s/1ZG3pUJP9s2LTouZIgabh4A )  提取码：q48f
 - 《校招求职分享直播PPT - 分享人：拱白菜的阿秀》 [百度云链接](https://pan.baidu.com/s/1j8KpU6tETcVrMWDYcfPIeQ )  提取码：wnh8 
-  
+- 《牛客网SQL练习题全解析》 [百度云链接](https://pan.baidu.com/s/1wiqqET6I9Nqu4yvGuGzv2w )  提取码：olgp 
 
 
 
