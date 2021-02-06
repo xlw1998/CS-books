@@ -1,6 +1,7 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
 
+
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -608,7 +609,13 @@
 - 《校招求职分享直播PPT - 分享人：拱白菜的阿秀》 [百度云链接](https://pan.baidu.com/s/1j8KpU6tETcVrMWDYcfPIeQ )  提取码：wnh8 
 - 《牛客网SQL练习题全解析》 [百度云链接](https://pan.baidu.com/s/1wiqqET6I9Nqu4yvGuGzv2w )  提取码：olgp 
 
+#### 22 - 我建议你下载，以后肯定用得上
 
+- 《城市新青年：美团外卖骑手就业报告》 [百度云链接](https://pan.baidu.com/s/1P2VV4CwKPKpxV6myjtJ_Hg )   提取码：i8y5 
+- 《活着 - 余华》  [百度云链接](https://pan.baidu.com/s/1Pk6yeTM2nUgHUM5ji2Gn4Q )  提取码：29s4 
+- 《许三观卖血记 - 余华》 [百度云链接](https://pan.baidu.com/s/13j4KevXl3SfPsdAOu27qyw )  提取码：pgf3 
+- 《平凡的世界 - 路遥》  [百度云链接](https://pan.baidu.com/s/1hNPgA3YlllyEuc-fBw2lhg )  提取码：vaa6 
+  
 
 -------
 
