@@ -1,15 +1,7 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
 
-
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
-
-
-
-#### 声明
-
-如有疑问请提交**issue**，如有**违规侵权**，请联系本人forthespada@foxmail.com，本人立马删除，感谢！本仓库仅作交流分享使用，不作任何商用！
 
 #### 个人所有仓库地址
 
@@ -577,7 +569,7 @@
 
 - 《Operations Research Applications And Algorithms》 [百度云链接](https://pan.baidu.com/s/18q6kf2pYT708E9pZoq0HQQ)   提取码：lrou
 
-- #### 19 - 程序员个人能力提升
+- #### 19 - 程序员软技能
 
 - 《码农翻身：用故事给技术加点料_刘欣》 [百度云链接](https://pan.baidu.com/s/1dv8jHAhyoyGfpzXJA4747w)   提取码：t2di
 
@@ -602,7 +594,7 @@
 - 《数字信号处理教程  第3版 by 程佩青 (z-lib.org)》 [百度云链接](https://pan.baidu.com/s/1gZV5-KpENoByu_w2N1fBYA )  提取码：qn5b
 - 《微服务设计中文完整版》[百度云链接](https://pan.baidu.com/s/119YoewAQZF_ttx_vOI3CZg )  提取码：7qp6 
 
-#### 21 - 社招校招各种面经汇总
+#### 21 - 社招校招汇总
 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/17_8t52Z2UtRuflNy4ybzBw)   提取码：luao
 - 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
@@ -624,6 +616,8 @@
   
 
 -------
+
+
 
 #### Donate
 
@@ -651,7 +645,14 @@
 | 11   | L*E        |                                           | 6.6元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 12   | *潘        | 就你最六六六                              | 1.66元   | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 13   | *棋        |                                           | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 14   | M*t        | 大佬加油                                  | 1..0元   | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
+| 14   | M*t        | 大佬加油                                  | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 
  
 
+#### 免责声明
+
+本仓库书籍全部来源于网络其他人的整理，我只是搜录整理他人成果。
+
+如有疑问请提交**issue**，有**违规侵权**，请联系本人forthespada@foxmail.com，本人立马删除相应链接，感谢！
+
+本仓库仅作学习交流分享使用，不作任何商用！
