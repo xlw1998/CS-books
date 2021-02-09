@@ -1,6 +1,5 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 #### 个人所有仓库地址
@@ -144,6 +143,15 @@
 - 《Java核心技术(卷2）第8版》 [百度云链接](https://pan.baidu.com/s/13C_89pRjE3ccBmXr1GQVyA )  提取码：in8y 
 - 《Head First Java第二版涵盖java5.0》 [百度云链接](https://pan.baidu.com/s/1vKNf1gqquCh0x8gcsVgWnA ) 提取码：qfz2 
 - 《Java 8 实战》 [百度云链接](https://pan.baidu.com/s/1kxgntpEDq4kAzygasmJndQ ) 提取码：3ej1 
+- 阿里巴巴Java开发手册--1.0.0公开版   [百度云链接](https://pan.baidu.com/s/16puKNw6Hl2FOibLxntAnrg )    提取码：pl9v 
+- 阿里巴巴Java开发手册--1.1.0正式版   [百度云链接](https://pan.baidu.com/s/1h89f6LXQVXjPBzo-QCbVeQ )   提取码：zrxy 
+- 阿里巴巴Java开发手册--1.2.0升级版   [百度云链接](https://pan.baidu.com/s/1PpFknXadBvYkW--fcRWvVw )   提取码：n45a 
+- 阿里巴巴Java开发手册--1.3.0终极版   [百度云链接](https://pan.baidu.com/s/1iwVotVtFSDQgIo83gJARtw )   提取码：ycoc 
+- 阿里巴巴Java开发手册--1.4.0详尽版   [百度云链接](https://pan.baidu.com/s/1CHAlcaUpeHVaYhboCsx2fQ )   提取码：dya6 
+- 阿里巴巴Java开发手册--华山版   [百度云链接](https://pan.baidu.com/s/1fmMyblrL2pZKxholhZrh3w )   提取码：z3fh 
+- 阿里巴巴Java开发手册-嵩山版   [百度云链接](https://pan.baidu.com/s/1zQNtk7WuHjxu-XpfLCbqGw )   提取码：z8mf 
+- 阿里巴巴Java开发手册--泰山版   [百度云链接](https://pan.baidu.com/s/1G40U8gnqKCTRC5N8jl6YKQ )  提取码：6cxz 
+
 - 《Java编辑思想（第四版）》 [百度云链接](https://pan.baidu.com/s/1exH0byT5YogMOmo7J1dDSQ ) 提取码：ogz5 
 - 《Java并发编程的艺术》 [百度云链接](https://pan.baidu.com/s/1te0Uuz5bM1UURQzGBt1OxA ) 提取码：v8pj 
 - 《JAVA并发编程实践》 [百度云链接](https://pan.baidu.com/s/1ROwaQIPzhfkmSA-IjFAWgA ) 提取码：se4k 
@@ -320,6 +328,7 @@
 - 《算法（第4版）》 [百度云链接](https://pan.baidu.com/s/1N6UcwKech2x_Ixde9vXFRw )   提取码：e65w 
 - 《算法导论原书第3版》 [百度云链接](https://pan.baidu.com/s/1mX7CVpIyDcjkHuqy98orpA)  提取码：xl63 
 - 《算法导论中文版》 [百度云链接](https://pan.baidu.com/s/11B72LuPWUAzsTn1c1TPSwA )  提取码：okm5 
+- 《算法分析与设计》 [百度云链接](https://pan.baidu.com/s/1TnxVZkwfuQwWzK6kDAgA7w )  提取码：mmcx 
 - 《算法谜题》 [百度云链接](https://pan.baidu.com/s/1c2egFp2ME7ItqPLJPqyt1g)  提取码：tq0f 
 - 《算法图解》 [百度云链接](https://pan.baidu.com/s/1xTOT6otkrwY3Pw5JGqaiHA)  提取码：i2k7 
 - 《挑战程序设计竞赛(第1版)》 [百度云链接](https://pan.baidu.com/s/1oEfnV0xou7VLveCNsEv7Kw )    提取码：gm3c 
