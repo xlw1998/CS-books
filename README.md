@@ -1,5 +1,6 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
+
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 #### 个人所有仓库地址
@@ -657,6 +658,7 @@
 | 13   | *棋        |                                           | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 14   | M*t        | 大佬加油                                  | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 15   | **超       |                                           | 9.9元    | 支付宝   | 2021-02-13 | [github仓库](https://github.com/forthespada/CS-Books) |
+| 16   | *内        |                                           | 10.0元   | 微信     | 2021-02-27 | [github仓库](https://github.com/forthespada/CS-Books) |
 
  
 
