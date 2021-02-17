@@ -1,6 +1,5 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 #### 个人所有仓库地址
@@ -234,7 +233,6 @@
 - 《Python3网络爬虫数据采集》 [百度云链接](https://pan.baidu.com/s/1OLmGm-IZOtwKrRRRpVu5xw )  提取码：jkk3 
 - 《精通Scrapy网络爬虫 - 刘硕》  [百度云链接](https://pan.baidu.com/s/1wV51nhVt0dYMczMEJGjoww )  提取码：0f1v 
 - 《用Python写网络爬虫》 [百度云链接](https://pan.baidu.com/s/160g7nG95o4qoI3ajaCrRbw )  提取码：657p 
-  
 
 ##### 3.3 Python数据分析
 
@@ -262,46 +260,43 @@
 - 《数据分析修炼手册》 [百度云链接](https://pan.baidu.com/s/1cinQiucE4K7k4GISfll2JA )  提取码：qfs7 
 - 《数据分析学习顺序》 [百度云链接](https://pan.baidu.com/s/1bnqCMfn74ATTb-Nt1l1yJQ )  提取码：9dy8 
 - 《增长黑客_创业公司的用户与收入增长秘籍 - 范冰》 [百度云链接](https://pan.baidu.com/s/1M1ZZblb3RAM0HjlnKEBpkw )  提取码：llq2 
-  
 
 ##### 3.4 Python数据可视化
 
 - 《Python数据可视化编程实战》 [百度云链接](https://pan.baidu.com/s/1sBuA63eBEuAJhhHOYJLUSw )  提取码：iglx 
-  
+
 - 《数据可视化之美》 [百度云链接](https://pan.baidu.com/s/10Xe1KJvFHYGUy4vnPQbGAQ )  提取码：snio 
-  
 
 ##### 3.5 Python数据挖掘
 
 - 《Python编程-数据挖掘入门与实践(中文完整版)-图灵程序》 [百度云链接](https://pan.baidu.com/s/1Ynu2E8WJcLi5-F4hD7MqMQ )  提取码：22c2 
-  
+
 - 《Python数据挖掘入门与实践》 [百度云链接](https://pan.baidu.com/s/1n_P0BtKe-WBfbUMPy1dWvw )  提取码：1r46 
-  
+
 - 《数据挖掘导论 - 完整版》 [百度云链接](https://pan.baidu.com/s/1BqtnKZZWH3an4nSQN7PScw ) 提取码：c8dx  
-  
+
 - 《数据挖掘原理与算法》 [百度云链接](https://pan.baidu.com/s/1G2Uh0Om20IYJwNImA4fKFw )  提取码：yx67 
 
 
 #### 04 - Go语言
 
 - 《Go Web 编程》 [百度云链接](https://pan.baidu.com/s/1XHGe8wFZ_x3UeGyzgyMARA )   提取码：h9qu 
-  
+
 - 《Go并发编程实战》 [百度云链接](https://pan.baidu.com/s/15m5sR-2S6xF57vDW9Qi0Fg )  提取码：7t2d 
-  
+
 - 《Go语言编程》 [百度云链接](https://pan.baidu.com/s/1ia7WPlnzOOOkKvytqfF6Gw )   提取码：o2fn 
-  
+
 - 《Go语言标准库参考》 [百度云链接](https://pan.baidu.com/s/1_pVFevjGCDgPrDlVB-E7Ug )  提取码：ygbj 
-  
+
 - 《Go语言程序设计》 [百度云链接](https://pan.baidu.com/s/1_MEFLoQvaHcKlOkHgFzrZw )  提取码：rbuo 
-  
+
 - 《Go语言圣经》 [百度云链接](https://pan.baidu.com/s/1k1t5EFdvauob2uzu4gAizQ ) 提取码：7qhr  
-  
+
 - 《Go语言实战》 [百度云链接](https://pan.baidu.com/s/19jTChKmcy566H2yaUOUgiQ )  提取码：aqjp 
-  
+
 - 《Go语言学习笔记》 [百度云链接](https://pan.baidu.com/s/1yrmiUv_3x7SGuYYiXAj3LA )  提取码：zj1d 
-  
+
 - 《学习 Go 语言(Golang)》 [百度云链接](https://pan.baidu.com/s/1eQrTmd7tAGQmwEl_sKWShg )  提取码：d98t 
-  
 
 #### 05 - 数据结构与算法
 
@@ -458,7 +453,7 @@
 #### 12 - 前端&全栈
 
 - 《[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版》 [百度云链接](https://pan.baidu.com/s/1E_hGtyCxxYFRa4-7gepsOg ) 提取码：t8lj 
-  
+
 - 《[JavaScript.DOM编程艺术（第2版）]》 [百度云链接](https://pan.baidu.com/s/1QyHkKNdVb9qhzaLmNxThHg ) 提取码：gpaz 
 - 《Bootstrap实战》 [百度云链接](https://pan.baidu.com/s/1OAx72Wf9PsvWUmwkpHFs3g ) 提取码：7xtf 
 - 《HTML5揭秘》 [百度云链接](https://pan.baidu.com/s/1r0JhCMPva0s8sC2HNjphLg ) 提取码：v9qw 
@@ -470,7 +465,7 @@
 - 《jQuery权威指南》 [百度云链接](https://pan.baidu.com/s/1Ng_CFZa3uN4rsbpfWSwJBw ) 提取码：tflj 
 - 《Node.js开发指南》 [百度云链接](https://pan.baidu.com/s/1ZO8AVB8ECEcFLl8kGppBGg )  提取码：r1oj 
 - 《nodebook》 [百度云链接](https://pan.baidu.com/s/1pJ4sLnCMUPeceDrM7pz9mA ) 提取码：himg 
-  
+
 - 《JavaScript高级程序设计（第3版）中文 高清》 [百度云链接](https://pan.baidu.com/s/1yW9-ZzPkKyNRePdYEK7E3A ) 提取码：uus7 
 - 《疯狂AJAX讲义》 [百度云链接](https://pan.baidu.com/s/1-IJNk0xIKYRpfx2SAjPC2g ) 提取码：w85h 
 - 《深入浅出Node.js》 [百度云链接](https://pan.baidu.com/s/1vZuoMxAwEbJl9wc6Vlmo7Q ) 提取码：cmkj 
@@ -624,7 +619,6 @@
 - 《活着 - 余华》  [百度云链接](https://pan.baidu.com/s/1Pk6yeTM2nUgHUM5ji2Gn4Q )  提取码：29s4 
 - 《许三观卖血记 - 余华》 [百度云链接](https://pan.baidu.com/s/13j4KevXl3SfPsdAOu27qyw )  提取码：pgf3 
 - 《平凡的世界 - 路遥》  [百度云链接](https://pan.baidu.com/s/1hNPgA3YlllyEuc-fBw2lhg )  提取码：vaa6 
-  
 
 -------
 
@@ -658,7 +652,8 @@
 | 13   | *棋        |                                           | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 14   | M*t        | 大佬加油                                  | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 | 15   | **超       |                                           | 9.9元    | 支付宝   | 2021-02-13 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 16   | *内        |                                           | 10.0元   | 微信     | 2021-02-27 | [github仓库](https://github.com/forthespada/CS-Books) |
+| 16   | **鹏       |                                           | 1.0元    | 支付宝   | 2021-02-16 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
+| 17   | *内        |                                           | 10.0元   | 微信     | 2021-02-17 | [github仓库](https://github.com/forthespada/CS-Books) |
 
  
 
