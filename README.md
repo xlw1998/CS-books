@@ -1,5 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（ **字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗** ），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 #### 个人所有仓库地址
@@ -432,8 +431,8 @@
 
 #### 11 - 数据库
 
-- 《MySQL必知必会 PDF + 源码》 [百度云链接](https://pan.baidu.com/s/1Pvs923qKDNAQdNhLtIZ8jA ) 提取码：olvd 
-- 《数据库系统实现（第二版）》 [百度云链接](https://pan.baidu.com/s/1QaYz2VnJVrAMW1V9qQM2ng ) 提取码：hjds 
+- 《MySQL必知必会 PDF + 源码》 [百度云链接](https://pan.baidu.com/s/1zVp5YyqO1PrU_-kdm_CZog )   提取码：45id 
+- 《数据库系统实现（第二版）》 [百度云链接](https://pan.baidu.com/s/1QaYz2VnJVrAMW1V9qQM2ng )  提取码：hjds 
 - 《高性能MySQL（第3版）].Baron.Scbwartz等.扫描版》 [百度云链接](https://pan.baidu.com/s/1EFj1KKQ61WNMlHT48mwYhw ) 提取码：nszh 
 - 《深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明》 [百度云链接](https://pan.baidu.com/s/18BeYVzM0FDk3DdSAfy-4yQ ) 提取码：a0uo 
 - 《数据库系统概念》 [百度云链接](https://pan.baidu.com/s/1TI2TK1TbiHZiXfWZGaDKlA ) 提取码：eugi 
@@ -602,7 +601,7 @@
 
 #### 21 - 社招校招汇总
 
-- 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/17_8t52Z2UtRuflNy4ybzBw)   提取码：luao
+- 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/1XHPpDHZsRDanLnZGUuEHmQ )   提取码：esr8 
 - 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
 - 《Java大厂面试总结》  [百度云链接](https://pan.baidu.com/s/14xD_nZ2rb64LG1_ZZSOyQA )   提取码：4bn1 
 - 《C++面经 - 牛客大佬总结的涉及C++ 操作系统 计算机网络 数据库等知识点》 [百度云链接](https://pan.baidu.com/s/1oT9oIgPvXDEG01LaNbOU_g )  提取码：czbh 
