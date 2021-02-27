@@ -1,7 +1,6 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
 
-
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
 
 
@@ -607,7 +606,7 @@
 #### 21 - 社招校招汇总
 
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第零版<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第一版<br>[百度云链接](https://pan.baidu.com/s/177M_9BJFVHCpzQ-alKKvEw )   提取码：faxq 
+- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第一版<br>[百度云链接](https://pan.baidu.com/s/1B0tG5jrUaBihn_H5PGQDsQ)   提取码：mm1b 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/1XHPpDHZsRDanLnZGUuEHmQ )   提取码：esr8 
 - 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
 - 《Java大厂面试总结》  [百度云链接](https://pan.baidu.com/s/14xD_nZ2rb64LG1_ZZSOyQA )   提取码：4bn1 
@@ -670,4 +669,4 @@
 
 如有疑问请提交**issue**，有**违规侵权**，请联系本人forthespada@foxmail.com，本人立马删除相应链接，感谢！
 
-本仓库仅作学习交流分享使用，不作任何商用！
+本仓库仅作学习交流分享使用，不作任何商用
