@@ -1,7 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
-
-
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
 
 
@@ -562,39 +559,24 @@
 #### 18 - 数学相关
 
 - 《程序员的数学卷1 - 清晰版》 [百度云链接](https://pan.baidu.com/s/1I6hyoiiOtM52FTi9MzZMUw ) 提取码：4ztn 
-
 - 《程序员的数学卷2 - 概率统计》 [百度云链接](https://pan.baidu.com/s/1QhvvJxyEiUook7xD4r1cZw ) 提取码：7o4m 
-
 - 《程序员的数学卷3 - 线性统计》 [百度云链接](https://pan.baidu.com/s/1T8xNHZsnfcPgFByRKBUb7Q ) 提取码：3kq6 
-
 - 《计算复杂性：现代方法》 [百度云链接](https://pan.baidu.com/s/1TDVfB4RQKMDriq4dZfNuWg)   提取码：yu3m
-
 - 《离散数学及其应用》 [百度云链接](https://pan.baidu.com/s/17e1KX0j5RCNcd8JnWPrNrw )  提取码：gcbx
-
 - 《数学之美》 [百度云链接](https://pan.baidu.com/s/1IBIViE2Sifx-ANFU12nmPQ)   提取码：vxqr
-
 - 《Computational Complexity_ A Modern Approach》 [百度云链接](https://pan.baidu.com/s/1-XpRBBfJpv9F40R7wwG0_w )  提取码：vq08
-
 - 《Discrete Mathematics and Its Applications》 [百度云链接](https://pan.baidu.com/s/1Tp-DYhM6CfLflqPDB4BF_g)   提取码：fuox
-
 - 《Operations Research Applications And Algorithms》 [百度云链接](https://pan.baidu.com/s/18q6kf2pYT708E9pZoq0HQQ)   提取码：lrou
 
-- #### 19 - 程序员软技能
+#### 19-程序员软技能
 
 - 《码农翻身：用故事给技术加点料_刘欣》 [百度云链接](https://pan.baidu.com/s/1dv8jHAhyoyGfpzXJA4747w)   提取码：t2di
-
 - 《奔跑吧，程序员：从零开始打造产品、技术和团队》 [百度云链接](https://pan.baidu.com/s/1T3851MxuIrbrc4HOqdpuSA )  提取码：yx4j
-
 - 《代码大全2中文版》 [百度云链接](https://pan.baidu.com/s/13Gajn1_aiBkjoGFcJI1zCA )  提取码：0lml
-
 - 《代码整洁之道》 [百度云链接](https://pan.baidu.com/s/1CTPGRQkyFGUrwVVnv4d5xg )  提取码：3c81
-
 - 《黑客与画家》 [百度云链接](https://pan.baidu.com/s/1BaB4TCWothorFJAbZhGLpQ )  提取码：1i8c
-
 - 《浪潮之巅（完整版）》 [百度云链接](https://pan.baidu.com/s/1k0J1Fy9GoYieRdxKCU51AA )  提取码：ikcl
-
 - 《敏捷软件开发：原则、模式与实践》 [百度云链接](https://pan.baidu.com/s/1o9ECMcIF0gML_9qk7c1cgQ ) 提取码：sw72
-
 - 《重构：改善既有代码的设计（第2版）》 [百度云链接](https://pan.baidu.com/s/1FnB3MeuYTZSfK6ITUc7pjg)   提取码：kbup
 
 #### 20 - 其余资料
@@ -608,6 +590,8 @@
 
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第零版<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第一版<br>[百度云链接](https://pan.baidu.com/s/14VFpE0X8nAhQtkTliOzePA )   提取码：6lxd 
+- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第二版》[百度云链接](https://pan.baidu.com/s/1DByhcsmBPncn8rbHkVRLHw)  提取码：px0i  
+
 - 《计算机校招直播视频 - 2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/1XHPpDHZsRDanLnZGUuEHmQ )   提取码：esr8 
 - 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
