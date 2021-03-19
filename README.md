@@ -1,6 +1,7 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 
 
+
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
 
 
@@ -620,34 +621,11 @@
 #### Donate
 
 <div align=right>
-    <p>如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
+    <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢老铁" style="right;zoom: 23%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢老铁" style="right;zoom: 22%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢老铁" style="right;zoom: 35%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢老铁" style="right;zoom: 35%;" />
                                                                                                                          </figure></div>
-
-
-
-| 序号 | 姓名(昵称) | 寄语                                      | 打赏金额 | 支付方式 | 打赏时间   | 打赏平台                                              |
-| ---- | ---------- | ----------------------------------------- | -------- | -------- | ---------- | ----------------------------------------------------- |
-| 1    | **远       | 感谢分享                                  | 1.0元    | 支付宝   | 2021-01-20 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 2    | **杰       | 大佬有一起打包的链接不？                  | 6.6元    | 支付宝   | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 3    | **丽       | 谢谢大佬辛苦整理                          | 9.9元    | 微信     | 2021-01-21 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 4    | A*r        | 感谢分享                                  | 9.9元    | 微信     | 2021-01-22 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 5    | C*y        |                                           | 6.6元    | 微信     | 2021-01-22 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 6    | **宇       | 感谢分享，希望再加一个<br/>全部打包的链接 | 9.9元    | 支付宝   | 2021-01-22 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 7    | *ク        | 感谢分享                                  | 6.6元    | 微信     | 2021-01-23 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 8    | *子        | 大佬的故事很励志                          | 8.8元    | 微信     | 2021-01-27 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 9    | l*y        |                                           | 1.0元    | 微信     | 2021-02-01 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 10   | B*e        |                                           | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 11   | L*E        |                                           | 6.6元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 12   | *潘        | 就你最六六六                              | 1.66元   | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 13   | *棋        |                                           | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 14   | M*t        | 大佬加油                                  | 1.0元    | 微信     | 2021-02-02 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 15   | **超       |                                           | 9.9元    | 支付宝   | 2021-02-13 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 16   | **鹏       |                                           | 1.0元    | 支付宝   | 2021-02-16 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
-| 17   | *内        |                                           | 10.0元   | 微信     | 2021-02-17 | [github仓库](https://github.com/forthespada/CS-Books) |
-| 18   | *O         |                                           | 1.0元    | 微信     | 2021-02-20 | [码云仓库](https://gitee.com/ForthEspada/CS-Books)    |
 
  
 
