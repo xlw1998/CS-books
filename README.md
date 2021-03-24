@@ -1,5 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
 
 
@@ -8,7 +7,7 @@
 
 **[CS-Books码云仓库](https://gitee.com/ForthEspada/CS-Books)         [CS-Books github仓库](https://github.com/forthespada/CS-Books)          [CSLearning码云仓库](https://gitee.com/ForthEspada/CSLearning)         [CSLearning github仓库](https://github.com/forthespada/CSLearning)**
 
-本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者**阿秀**（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)】）所有。
+本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者**[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)**（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)】）所有。
 
 <div align=center>
 <figure class="one">
@@ -633,4 +632,4 @@
 
 如有疑问请提交**issue**，有**违规侵权**，请联系本人forthespada@foxmail.com，本人立马删除相应链接，感谢！
 
-本仓库仅作学习交流分享使用，不作任何商用
+本仓库仅作学习交流分享使用，不作任何商用。
