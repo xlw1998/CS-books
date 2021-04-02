@@ -2,32 +2,24 @@
 
 
 
+
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
+>
+>本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。
 
-
-
-#### 个人所有仓库地址
-
-**[CS-Books码云仓库](https://gitee.com/ForthEspada/CS-Books)         [CS-Books github仓库](https://github.com/forthespada/CS-Books)          [CSLearning码云仓库](https://gitee.com/ForthEspada/CSLearning)         [CSLearning github仓库](https://github.com/forthespada/CSLearning)**
-
-本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。
+<p align="center">
+    <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
+<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
+   <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
+       <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
+    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://github.com/forthespada/CSLearning"><img src="https://img.shields.io/badge/GitHub-原创好文-import.svg" alt="学习"></a>
+           <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
+        </p>
 
 在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
 **告诉他们，你是可以的！**
-
-
-
-#### 个人社交平台
-
-<p align="center"  font-size="18px">
-  <a href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd">
-公众号：拓跋阿秀</a>        
-  <a href="https://blog.csdn.net/songhao19" rel="nofollow">CSDN：拓跋阿秀</a>         
-  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu/answers" rel="nofollow">知乎：拓跋阿秀</a>     
-</p>                                                 
-
-#### [阿秀个人公众号、知乎等平台原创技术文章和资源合集](https://gitee.com/ForthEspada/CSLearning)（点开它，相信我，你一定能有所收获的）
 
 🔗友情链接：我的实验室小伙伴陌溪在研究生期间做的一个开源的微服务博客项目 [蘑菇博客](https://gitee.com/moxi159753/mogu_blog_v2)，项目中运用了很多主流Java技术，如 SpringBoot、SpringCloud，ElasticSearch、Solr、RabbitMQ、Docker等等，这个开源项目也顺利的帮助陌溪拿到**字节跳动**，**滴滴出行**等大厂的 **提前批Offer**，如果大家想要充实自己的简历上的项目经历，非常值得看一看。同时还有一份陌溪**校招**时候的写的**笔记仓库** [LearningNotes](https://gitee.com/moxi159753/LearningNotes)，大家可以了解一下，欢迎 **Star** 支持⭐
 
