@@ -1,11 +1,4 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-
-
-
->作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**，写代码去了。
->
->本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。
-
 <p align="center">
     <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
 <a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
@@ -16,7 +9,7 @@
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
 
-在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
+本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
 **告诉他们，你是可以的！**
 
@@ -292,6 +285,7 @@
 - 《啊哈！算法 哈磊》 [百度云链接](https://pan.baidu.com/s/1ShKCKjoTIeThwQf0oHc_8w )  提取码：5fop 
 - 《大话数据结构》 [百度云链接](https://pan.baidu.com/s/1qedzjHo_mFTrUvcFXm44tg) 提取码：ehu4  
 - 《背包九讲》 [百度云链接](https://pan.baidu.com/s/1kg20UyREHVzuGZQANhTmfQ )  提取码：8ioa 
+- 《带你快速刷完67道剑指offer》 [百度云链接](https://pan.baidu.com/s/1JOPSJiUWM_M6GGerpdODpw )  提取码：p9su 
 - 《编程之美-完整版》 [百度云链接](https://pan.baidu.com/s/1_wwULGQtjwI_MR0_biZvUA)  提取码：yumy 
 - 《编程珠玑 第二版 人民邮电出版社》 [百度云链接](https://pan.baidu.com/s/1SYhLeAXyDWXEw-FPPFsGHQ )  提取码：gqg5 
 - 《编程珠玑 英文第二版-Programming.Pearls》 [百度云链接](https://pan.baidu.com/s/14L8E-vG9efQKr_f0EkqX-Q )  提取码：xsdt 
@@ -302,7 +296,6 @@
 - 《计算机程序设计艺术卷2：半数值算法》 [百度云链接](https://pan.baidu.com/s/1EeiGyvuzyvloQkH7_b9zZA )  提取码：tmep 
 - 《计算机程序设计艺术卷3：排序与查找》 [百度云链接](https://pan.baidu.com/s/1secLsfX8_d2bnsR7b9EJFA ) 提取码：ebud 
 - 《剑指Offer》 [百度云链接](https://pan.baidu.com/s/1ZpLaXTtkX1MMuD9bu_3oHQ )  提取码：20z4
-- 《汇集牛客高赞解法的67道剑指offer-阿秀个人笔记版》 [百度云链接](https://pan.baidu.com/s/1owWHArZ0WrAs1hlsf9_mng )   提取码：wtty 
 - 《漫画算法：小灰的算法之旅》 [百度云链接](https://pan.baidu.com/s/1FkP7Axl6s23p2jF56unqwg ) 提取码：2fof  
 - 《妙趣横生的算法（C语言实现 第2版）》 [百度云链接](https://pan.baidu.com/s/1Wxyl6EFPOctNU0ZgpHA_ig ) 提取码：uvm8 
 - 《数据结构-C语言 严蔚敏 pdf》 [百度云链接](https://pan.baidu.com/s/1L3f5zLWRZN4-1kKD-CA5NA )  提取码：g0o5 
@@ -579,7 +572,7 @@
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第零版<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第一版<br>[百度云链接](https://pan.baidu.com/s/14VFpE0X8nAhQtkTliOzePA )   提取码：6lxd 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第二版》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第三版》[百度云链接](https://pan.baidu.com/s/1HyIWqTnvD2EKGD2V_iC7XQ )  提取码：hd5y 
+- 《《[逆袭进大厂](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow )  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第三版》[百度云链接](https://pan.baidu.com/s/1HyIWqTnvD2EKGD2V_iC7XQ )  提取码：2ryp 
 - 《计算机校招直播视频 - 2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 - 《C++面经总结》 [百度云链接](https://pan.baidu.com/s/1XHPpDHZsRDanLnZGUuEHmQ )   提取码：esr8 
 - 《牛客网Java校招题库PDF版》 [百度云链接](https://pan.baidu.com/s/13vXyf6onhnvqBTyx3ocBNg  )    ：提取码：kgl6  
